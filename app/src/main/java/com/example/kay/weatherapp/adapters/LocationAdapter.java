@@ -9,11 +9,11 @@ import android.view.ViewGroup;
 import android.widget.CompoundButton;
 import android.widget.RadioButton;
 
-import com.inducesmile.androidweatherapp.R;
-import com.inducesmile.androidweatherapp.database.DatabaseQuery;
-import com.inducesmile.androidweatherapp.entity.LocationObject;
-import com.inducesmile.androidweatherapp.entity.ViewEntityObject;
-import com.inducesmile.androidweatherapp.helpers.CustomSharedPreference;
+import com.example.kay.weatherapp.R;
+import com.example.kay.weatherapp.database.DatabaseQuery;
+import com.example.kay.weatherapp.entity.LocationObject;
+import com.example.kay.weatherapp.entity.ViewEntityObject;
+import com.example.kay.weatherapp.helpers.CustomSharedPreference;
 
 import java.util.ArrayList;
 import java.util.List;

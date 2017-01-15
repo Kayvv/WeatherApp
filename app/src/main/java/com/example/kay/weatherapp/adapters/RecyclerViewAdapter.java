@@ -5,8 +5,8 @@ import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import com.inducesmile.androidweatherapp.R;
-import com.inducesmile.androidweatherapp.entity.WeatherObject;
+import com.example.kay.weatherapp.R;
+import com.example.kay.weatherapp.entity.WeatherObject;
 import java.util.List;
 /**
  * Created by Kay on 2017/1/10.

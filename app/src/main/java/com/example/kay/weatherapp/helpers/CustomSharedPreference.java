@@ -3,7 +3,7 @@ import android.content.Context;
 import android.content.SharedPreferences;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
-import com.inducesmile.androidweatherapp.entity.ListJsonObject;
+import com.example.kay.weatherapp.entity.ListJsonObject;
 import java.lang.reflect.Type;
 import java.util.List;
 

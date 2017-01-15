@@ -1,7 +1,7 @@
 package com.example.kay.weatherapp.entity;
 
 import com.google.gson.annotations.SerializedName;
-import com.inducesmile.androidweatherapp.entity.Coord;
+import com.example.kay.weatherapp.json.Coord;
 
 /**
  * Created by Kay on 2017/1/11.

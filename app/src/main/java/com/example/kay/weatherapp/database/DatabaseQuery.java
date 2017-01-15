@@ -3,7 +3,7 @@ package com.example.kay.weatherapp.database;
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
-import com.inducesmile.androidweatherapp.entity.DatabaseLocationObject;
+import com.example.kay.weatherapp.entity.DatabaseLocationObject;
 import java.util.ArrayList;
 import java.util.List;
 /**

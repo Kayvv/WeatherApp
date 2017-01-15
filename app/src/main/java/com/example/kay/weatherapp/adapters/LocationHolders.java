@@ -5,8 +5,8 @@ import android.support.v7.widget.RecyclerView;
 import android.view.View;
 import android.widget.RadioButton;
 import android.widget.TextView;
-import com.inducesmile.androidweatherapp.R;
-import com.inducesmile.androidweatherapp.entity.LocationObject;
+import com.example.kay.weatherapp.R;
+import com.example.kay.weatherapp.entity.LocationObject;
 import java.util.List;
 /**
  * Created by Kay on 2017/1/10.

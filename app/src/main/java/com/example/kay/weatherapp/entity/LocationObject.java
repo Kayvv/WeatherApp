@@ -5,6 +5,13 @@ package com.example.kay.weatherapp.entity;
  */
 
 public class LocationObject {
+
+    private int id;
+
+    private String locationCity;
+
+    private String weatherInformation;
+
     public LocationObject(int id, String locationCity, String weatherInformation) {
         this.id = id;
         this.locationCity = locationCity;
